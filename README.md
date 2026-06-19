@@ -8,6 +8,8 @@
 [![License](https://shields.io)](https://opensource.org)
 [![Algorithm](https://shields.io)](#-how-it-works)
 
+
+FAST API Documentation: https://fastapi.tiangolo.com/
 ---
 
 ## 📸 Preview
@@ -38,4 +40,13 @@
 
 1. **Efficent Data Storage*:  You can add data simply into the premade puesdo database
 2. **Really easy to do** By running the code you will host a private port website where you can adjust data through it
+
+## How to set it up
+1. Install FastAPI and uvicorn through the terminal
+- pip3 install "fastapi[standard]
+- pip3 install fastapi
+- pip3 install uvicorn
+2. After installing it run
+  fastapi dev main.py
+3. Then just paste the link provided in the terminal to your web browser and there you go.
 
