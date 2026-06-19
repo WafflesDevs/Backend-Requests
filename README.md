@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack & Requirements
 
 - **Language:** 🐍 Python 3.10+
-- **Core Modules:** `fastapi,uvicorn,pydantic` (for optimized $O(1)$ queue operations)
+- **Core Modules:** `fastapi,uvicorn,pydantic` (for optimized use)
 - **AI/Math Frameworks:** `none` (optional, for matrix transformations)
 
 ---
